@@ -1,0 +1,30 @@
+body{
+    margin:20px;
+    color: #2b2839;
+}
+
+.itachi{
+    width:150px;
+    
+}
+
+.abc{
+    background-color:#ddebfa;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    width:400px;
+    margin: 0px auto; 
+    text-align: center;
+    border-bottom: 8px solid #d8cefe;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.txt{
+    
+}
+
+.dott-border{
+    border: 1px dotted red;
+}
+
